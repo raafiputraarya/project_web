@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>selamat datang di website kami</p>
+      <h5>Under Maintenance</h5>
     </>
   )
 }
