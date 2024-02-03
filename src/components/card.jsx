@@ -1,8 +1,8 @@
-function card(){
+function Card(){
     return (
         <>
         test
         </>
     );
 }
-export default card;
+export default Card;
