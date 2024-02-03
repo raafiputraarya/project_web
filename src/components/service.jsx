@@ -1,6 +1,8 @@
 function service (){
-    return{
-
-    }
+    return(
+        <>
+        test
+        </>
+    );
 }
 export default service;
