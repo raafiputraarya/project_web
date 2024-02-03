@@ -1,8 +1,8 @@
-function service (){
+function Service (){
     return(
         <>
         test
         </>
     );
 }
-export default service;
+export default Service;
