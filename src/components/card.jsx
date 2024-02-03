@@ -1,6 +1,8 @@
 function card(){
-    return{
-
-    }
+    return (
+        <>
+        test
+        </>
+    );
 }
 export default card;
