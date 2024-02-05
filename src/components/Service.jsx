@@ -1,7 +1,13 @@
 function Service (){
+    const style = {
+        title: {
+            margin : auto ,
+            
+        }
+    };
     return(
         <>
-        test
+            <h2 div className="title">SERVIVE</h2>
         </>
     );
 }
