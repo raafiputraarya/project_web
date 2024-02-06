@@ -2,7 +2,7 @@
 function Contact (){
     return(
         <>
-        Ini Adalah Menu About
+        <h2>Ini Adalah Menu Contact</h2>
         </>
     );
 }

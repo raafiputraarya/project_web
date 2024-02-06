@@ -1,7 +1,7 @@
 function About (){
     return(
         <>
-        Ini Adalah Menu About
+        <h2>Ini Adalah Menu About</h2>
         </>
     );
 }
