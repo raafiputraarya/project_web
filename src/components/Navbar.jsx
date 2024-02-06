@@ -3,7 +3,7 @@ function Navbar() {
 
     //a lot of code
     return (
-      <h1>a</h1>
+      <h2>Ini Adalah Menu Navbar</h2>
     );
   }
   export default Navbar;

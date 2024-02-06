@@ -1,7 +1,7 @@
 function Card(){
     return (
         <>
-        test
+        <h2>Card</h2>
         </>
     );
 }

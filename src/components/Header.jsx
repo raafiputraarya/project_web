@@ -1,7 +1,7 @@
 function About (){
     return(
         <>
-        Ini Adalah Menu Header
+        <h2>Ini Adalah Menu Header</h2>
         </>
     );
 }

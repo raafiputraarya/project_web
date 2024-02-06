@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <footer>
-      test
+      <h2>Ini Adalah Menu Footer</h2>
     </footer>
   );
 }
