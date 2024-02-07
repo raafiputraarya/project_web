@@ -6,8 +6,9 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Header from './components/Header'
-import Navbar from './components/Navbar'
+import NavbarKeren from './components/NavbarKeren'
 import Service from './components/Service'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {  
   const [count, setCount] = useState(0)
@@ -37,7 +38,7 @@ function App() {
   </>);
   return (
   <>
-    <Navbar/>
+    <NavbarKeren/>
     <Header/>
     <Service/>
     <About/>
