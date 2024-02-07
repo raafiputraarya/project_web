@@ -39,11 +39,11 @@ function App() {
   return (
   <>
     <NavbarKeren/>
-    <Header/>
+    {/*<Header/>*/}
     <Service/>
-    <About/>
-    <Contact/>
-    <Footer/>
+    {/*<About/>*/}
+    {/*<Contact/>*/}
+    {/*<footer/>*/}
   </>
   )
 }
