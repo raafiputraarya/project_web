@@ -10,7 +10,7 @@ function Cardcustom(){
       <Stack direction="horizontal" gap={5} className=" col-md-12 mx-auto">
           <Card style={{ 
             width: '30rem',
-            color: 'blue', 
+            color: 'black', 
             padding: '15px 10px 15px 10px',
             margin: '10px 0px 45px 0px',
             borderRadius:'20px',
@@ -24,7 +24,7 @@ function Cardcustom(){
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            
             </Card.Body>
           </Card>
 

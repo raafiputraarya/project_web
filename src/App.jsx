@@ -43,7 +43,7 @@ function App() {
     <Service/>
     {/*<About/>*/}
     {/*<Contact/>*/}
-    {/*<footer/>*/}
+    <Footer/>
   </>
   )
 }
