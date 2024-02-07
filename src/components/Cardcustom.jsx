@@ -4,9 +4,9 @@ import Card from 'react-bootstrap/Card'
 
 function Cardcustom(){
     return (
-      <Stack direction="horizontal" gap={3} className="mx-auto">
+      <Stack direction="horizontal" gap={5} className="mx-auto">
         <Card style={{ 
-          width: '500px ',
+          width: '300px ',
           height: '300px',
         
         }}>
@@ -53,8 +53,8 @@ function Cardcustom(){
         </Card>
 
           <Card style={{ 
-          width: '18rem ',
-          height: '18remx',
+          width: '300px',
+          height: '300px',
         
         }}>
           <Card.Img variant="top" src="holder.js/100px180" />
