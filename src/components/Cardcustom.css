@@ -1,4 +1,42 @@
-.card-img{
-    border-radius: 15px 15px !important;
+.card-img1{
+    border-radius: 15px 15px 15px 15px !important;
+}
 
+.card-img2{
+    border-radius: 15px 15px 15px 15px !important;
+}
+
+.card-img3{
+    border-radius: 15px 15px 15px 15px !important;
+}
+
+
+.container{
+    margin: 0px 0px 50px 0px
+}
+
+.card1{
+    margin-top: 35px !important
+}
+
+.card2{
+    margin-top: 35px !important;
+}
+
+.card3{
+    margin: 35px 0px 20px 0px !important;
+}
+
+.buttonCard2{
+    width: 280px;
+    border-radius: 59px 59px 59px 59px !important;
+    margin: auto 5px 0px 0px 0px !important;
+    position: center;
+}
+
+.buttonCard3{
+    width: 280px;
+    border-radius: 59px 59px 59px 59px !important;
+    margin-top: auto 5px 0px 0px 0px !important;
+    
 }

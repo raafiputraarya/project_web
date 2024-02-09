@@ -8,6 +8,7 @@ function Service (){
         <Container className="text-center">      
             <h2 className="heading">SERVICES</h2>
             <Cardcustom />
+            <div class="wave"></div>
         </Container>
     );
 }
