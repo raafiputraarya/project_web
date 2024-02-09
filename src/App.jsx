@@ -41,7 +41,7 @@ function App() {
     <NavbarKeren/>
     {/*<Header/>*/}
     <Service/>
-    {/*<About/>*/}
+    <About/>
     {/*<Contact/>*/}
     <Footer/>
   </>
