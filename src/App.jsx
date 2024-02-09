@@ -39,10 +39,10 @@ function App() {
   return (
   <>
     <NavbarKeren/>
-    <Header/>
+    {/*<Header/>*/}
     <Service/>
-    <About/>
-    <Contact/>
+    {/*<About/>*/}
+    {/*<Contact/>*/}
     <Footer/>
   </>
   )
