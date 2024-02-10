@@ -9,7 +9,7 @@ function Footer() {
   return (
     <Container className="reallycoolfeet" fluid>
       <footer>
-        <Row>
+        <Row className="mx-5 mb-4">
           <Col>
           <img
               src="img/logo.jpeg"
@@ -18,7 +18,7 @@ function Footer() {
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
             />
-          <h4>Kabar6.com</h4>
+          <h2><b>Kabar6.com</b></h2>
           <p>Lorem ipsum dolor sit amet, consectetur
 adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna
