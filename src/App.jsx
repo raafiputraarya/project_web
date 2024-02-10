@@ -5,7 +5,7 @@ import './App.css'
 import About from './components/About'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import Header from './components/Header'
+import Headerfile  from './components/Headerfile'
 import NavbarKeren from './components/NavbarKeren'
 import Service from './components/Service'
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -39,7 +39,7 @@ function App() {
   return (
   <>
     <NavbarKeren/>
-    {/*<Header/>*/}
+    <Headerfile />
     <Service/>
     {/*<About/>*/}
     {/*<Contact/>*/}
