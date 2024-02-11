@@ -1,0 +1,70 @@
+.header{
+    background-color: #FFE382;
+}
+
+.home{
+    background-color: #FFE382;
+    @media screen and (min-width: 950px){
+        height: 400px;
+    }
+    @media screen and (max-width: 949px){
+        height: 630px;
+    }
+    margin: !important;
+
+}
+
+.sectionleft{
+    padding: 12px 5px 0px 12px !important;
+    margin: 0px 60px 0px 0px !important;
+}
+
+.title1{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0px 30px 0px 5px;
+}
+
+.titlewelcome{
+    font-size: 20px;
+    margin: 0px 0px -10px 5px;
+}
+
+.primarytitle{
+    font-weight: bold;
+    font-size: 70px;
+
+
+}
+
+.subtitle{
+    margin: 0px 0px 20px 5px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.sectionright{
+    padding: 0px 5px 0px 12px !important;
+    margin: 0px 60px 0px 0px !important;
+}
+
+.imageheader{
+    @media screen and (min-width: 950px){
+        width: 490px;
+        height: 300px;  
+    }
+    @media screen and (max-width: 750px){
+        width: 460px;
+        height: 250px; 
+        margin: 30px 0px 0px 0px !important;
+    }
+    margin: 20px 0px 0px 0px !important;
+    border-radius: 15px;
+    
+}
+
+.Button{
+    border-radius: 11% !important;
+    width: 150px;
+    height : 40px;
+}
