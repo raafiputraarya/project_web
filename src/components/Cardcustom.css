@@ -1,13 +1,16 @@
 .card-img1{
-    border-radius: 15px 15px 15px 15px !important;
+    border-radius: 15px !important;
+    height: 200px !important;
 }
 
 .card-img2{
-    border-radius: 15px 15px 15px 15px !important;
+    border-radius: 15px !important;
+     height: 200px !important;
 }
 
 .card-img3{
-    border-radius: 15px 15px 15px 15px !important;
+    border-radius: 15px !important;
+     height: 200px !important;
 }
 
 
@@ -27,6 +30,13 @@
     margin: 35px 0px 20px 0px !important;
 }
 
+.buttonCard1{
+    width: 280px;
+    border-radius: 59px 59px 59px 59px !important;
+    margin: auto 5px 0px 0px 0px !important;
+    position: center;
+}
+
 .buttonCard2{
     width: 280px;
     border-radius: 59px 59px 59px 59px !important;
@@ -37,6 +47,6 @@
 .buttonCard3{
     width: 280px;
     border-radius: 59px 59px 59px 59px !important;
-    margin-top: auto 5px 0px 0px 0px !important;
-    
+    margin: auto 5px 0px 0px 0px !important;
+    position: center;
 }

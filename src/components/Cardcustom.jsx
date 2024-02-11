@@ -15,7 +15,7 @@ function Cardcustom(){
               <Card className='card1' style={{ 
                 width: '21rem',
                 color: 'black', 
-                padding: '15px 10px 30px 10px',
+                padding: '15px 10px 20px 10px',
                 margin: '10px 0px 45px 0px',
                 borderRadius:'20px',
                 boxShadow: '5px 5px 5px 5px #e5e5e5',
@@ -31,7 +31,7 @@ function Cardcustom(){
                   Some quick example text to build on the card title and make up the
                   bulk of the card's content.
                 </Card.Text>
-                  
+                <Button className='buttonCard1' variant="warning">Go somewhere</Button>
                 </Card.Body>
               </Card>
             </Col>
