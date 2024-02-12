@@ -42,7 +42,7 @@ function App() {
     <Headerfile />
     <Service/>
     <About/>
-    {/*<Contact/>*/}
+    <Contact/>
     <Footer/>
   </>
   )
