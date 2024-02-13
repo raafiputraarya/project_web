@@ -6,29 +6,29 @@ function About (){
     return(
         <>
         <Container className="amazingAbout px-5" fluid>
-            <Row><h1 className="text-center">About</h1></Row>
+            <Row><h1 className=" title text-center mb-4 mt-5">ABOUT</h1></Row>
             <Row>
-                <Col lg={6} md={12} className="d-flex">
+                <Col lg={6} md={12} className="d-flex mb-5 mt-3">
                     <img src="img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoAbout"/>
                 </Col>
-                <Col lg={6} md={12}>
+                <Col lg={6} md={12} className='mb-5 mt-3'>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusm sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua.Lorem ipsum dolor sit amet,
-consectetur adipisicing elit, sed do eiusm sed do eiusmod
-tempor incididunt ut labore et dolore magna
-aliqua.Lorem ipsum dolor sit amet, consectetur
-adipisicing elit, sed do </p>
+                    sed do eiusm sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua.Lorem ipsum dolor sit amet,
+                    consectetur adipisicing elit, sed do eiusm sed do eiusmod
+                    tempor incididunt ut labore et dolore magna
+                    aliqua.Lorem ipsum dolor sit amet, consectetur
+                    adipisicing elit, sed do </p>
                     <p>
                     eiusm sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua.Lorem ipsum dolor sit amet,
-consectetur
+                    dolore magna aliqua.Lorem ipsum dolor sit amet,
+                    consectetur
 
- adipisicing elit, sed do eiusm sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua.Lorem ipsum
-dolor sit amet, consectetur adipisicing elit, sed do eiusm
-sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua.
+                    adipisicing elit, sed do eiusm sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.Lorem ipsum
+                    dolor sit amet, consectetur adipisicing elit, sed do eiusm
+                    sed do eiusmod tempor incididunt ut labore et dolore
+                    magna aliqua.
                     </p>
                 </Col>
             </Row>

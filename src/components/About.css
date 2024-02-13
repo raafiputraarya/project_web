@@ -1,3 +1,9 @@
 .amazingAbout {
     background-color: #FFE382 !important;
+    
+}
+
+.title{
+    font-weight: bold;  
+    font-size: 40px; 
 }
