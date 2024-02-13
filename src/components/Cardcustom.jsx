@@ -23,7 +23,7 @@ function Cardcustom(){
                 backgroundColor: '#FFE382',
                 border:'0',
                 margin: 'auto',
-                opacity: '90%',
+
                 }}>
               <Card.Img className='card-img1' variant="top" src="img/gelas.png" />
               <Card.Body className=''>
@@ -48,7 +48,7 @@ function Cardcustom(){
                backgroundColor: 'white',
                border:'0',
                margin: 'auto',
-               opacity: '90%',
+
                 }}>
               <Card.Img className='card-img2' variant="top" src="img/gelas.png" />
               <Card.Body>
@@ -74,7 +74,6 @@ function Cardcustom(){
               backgroundColor: '#FFE382',
               border:'0',
               margin: 'auto',
-              opacity: '90%',
               }}>
               <Card.Img className='card-img3' variant="top" src="img/gelas.png" />
               <Card.Body>
