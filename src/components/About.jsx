@@ -12,22 +12,22 @@ function About (){
                 </Col>
                 <Col>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusm sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua.Lorem ipsum dolor sit amet,
-consectetur adipisicing elit, sed do eiusm sed do eiusmod
-tempor incididunt ut labore et dolore magna
-aliqua.Lorem ipsum dolor sit amet, consectetur
-adipisicing elit, sed do </p>
+                    sed do eiusm sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua.Lorem ipsum dolor sit amet,
+                    consectetur adipisicing elit, sed do eiusm sed do eiusmod
+                    tempor incididunt ut labore et dolore magna
+                    aliqua.Lorem ipsum dolor sit amet, consectetur
+                    adipisicing elit, sed do </p>
                     <p>
                     eiusm sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua.Lorem ipsum dolor sit amet,
-consectetur
+                    dolore magna aliqua.Lorem ipsum dolor sit amet,
+                    consectetur
 
- adipisicing elit, sed do eiusm sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua.Lorem ipsum
-dolor sit amet, consectetur adipisicing elit, sed do eiusm
-sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua.
+                    adipisicing elit, sed do eiusm sed do eiusmod tempor
+                    incididunt ut labore et dolore magna aliqua.Lorem ipsum
+                    dolor sit amet, consectetur adipisicing elit, sed do eiusm
+                    sed do eiusmod tempor incididunt ut labore et dolore
+                    magna aliqua.
                     </p>
                 </Col>
             </Row>
