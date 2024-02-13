@@ -1,13 +1,14 @@
 .coolcontact {
-    margin: 0px 30px 0px 5px;
     background-color: #FFE382 !important;
     border-top: 5px solid black;
 }
 .rightborder {
+    padding-top: 30px;
     border-right: 1px solid black;
     border-top: 1px solid black;
 }
 .wrongborder {
+    padding-top: 30px;
     border-left: 1px solid black;
     border-top: 1px solid black;
 }
