@@ -16,7 +16,7 @@ function Headerfile (){
                         <Button className="Button" variant="warning" href='#Services' >Read now!</Button>
                     </div>
                     <div className="sectionright  col-md-2">
-                        <img src='./public/img/logo.jpeg' className="imageheader"></img>
+                        <img src='./img/logo.jpeg' className="imageheader"></img>
                     </div>
                 </Row>
             </Container>
