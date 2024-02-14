@@ -15,8 +15,14 @@ function Headerfile (){
                         <p className="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore esse quo quaerat nulla provident molestiae possimus nisi quisquam molestias voluptatum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, quos.</p>
                         <Button className="Button" variant="warning" href='#Services' >Read now!</Button>
                     </div>
+<<<<<<< HEAD
                     <div md={2} className="sectionright col-md-2 ">
                         <img src='/public/img/logo.jpeg' className="imageheader"></img>
+=======
+
+                    <div className="sectionright col-md-2">
+                        <img src='./img/logo.jpeg' className="imageheader"></img>
+>>>>>>> 9fc4bd6adbae68cf2c2abb0de16f0169d3222393
                     </div>
                 </Row>
             </Container>
