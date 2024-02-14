@@ -25,7 +25,7 @@ function Cardcustom(){
                 margin: 'auto',
 
                 }}>
-              <Card.Img className='card-img1' variant="top" src="img/gelas.png" />
+              <Card.Img className='card-img1' variant="top" src="/img/gelas.png" />
               <Card.Body className=''>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
@@ -50,7 +50,7 @@ function Cardcustom(){
                margin: 'auto',
 
                 }}>
-              <Card.Img className='card-img2' variant="top" src="img/gelas.png" />
+              <Card.Img className='card-img2' variant="top" src="/img/gelas.png" />
               <Card.Body>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
@@ -75,7 +75,7 @@ function Cardcustom(){
               border:'0',
               margin: 'auto',
               }}>
-              <Card.Img className='card-img3' variant="top" src="img/gelas.png" />
+              <Card.Img className='card-img3' variant="top" src="/img/gelas.png" />
               <Card.Body>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
