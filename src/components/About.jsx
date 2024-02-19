@@ -5,11 +5,11 @@ import './About.css'
 function About (){
     return(
         <>
-        <Container className="amazingAbout px-5" fluid>
+        <Container className="amazingAbout px-5" id="About" fluid>
             <Row><h1 className="text-center">About</h1></Row>
             <Row>
                 <Col lg={6} md={12} className="d-flex">
-                    <img src="img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoAbout"/>
+                    <img src="img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoa"/>
                 </Col>
                 <Col lg={6} md={12}>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,

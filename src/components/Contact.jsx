@@ -9,7 +9,7 @@ import './Contact.css'
 function Contact (){
     return(
         <>
-        <Container className="px-5 coolcontact" fluid>
+        <Container className="px-5 coolcontact" id="Contact" fluid>
             <Row>
                 <Col lg={6} md={12} className="rightborder pb-4">
                     <Form>
