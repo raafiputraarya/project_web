@@ -11,11 +11,10 @@ function Footer() {
       <footer>
         <Row className="mb-4 text-center">
           <Col md={2} sm={6}>
-<<<<<<< HEAD
+
             <img src="/img/logo.jpeg" className="d-inline-block img-fluid" alt="kabar6 logo" sizes='50%'/>
-=======
+
             <img src="img/logo.jpeg" className="d-inline-block img-fluid logoa" alt="kabar6 logo" sizes='50%'/>
->>>>>>> abde5941832b73308d0079e08ca1e9a9b24bf0d3
           </Col>
           <Col md={2} sm={6}>
             <b>Kabar6.com</b>
