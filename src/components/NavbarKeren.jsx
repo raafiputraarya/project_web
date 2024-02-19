@@ -15,18 +15,18 @@ function NavbarKeren() {
               src="img/logo.jpeg"
               width="15%"
               height="15%"
-              className="d-inline-block align-top"
+              className="d-inline-block align-top logoa"
               alt="React Bootstrap logo"
             />
-            Kabar6.com
+            <span className="px-2 pt-2">Kabar6.com</span>
           </Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Toggle aria-controls="basic-navbar-nav"/>
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="justify-content-end" style={{ width: "100%" }}>
               <Nav.Link href="#Header">Header</Nav.Link>
-              <Nav.Link href="#link">Services</Nav.Link>
-              <Nav.Link href="#home">About</Nav.Link>
-              <Nav.Link href="#link">Contact</Nav.Link>
+              <Nav.Link href="#Services">Services</Nav.Link>
+              <Nav.Link href="#About">About</Nav.Link>
+              <Nav.Link href="#Contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
