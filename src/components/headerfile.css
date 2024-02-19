@@ -32,8 +32,10 @@
 .primarytitle{
     font-weight: bold;
     font-size: 70px;
-
-
+    @media screen and (max-width: 429px){
+        font-size: 50px;
+        width: 50px;
+    }
 }
 
 .subtitle{
@@ -55,6 +57,11 @@
     @media screen and (max-width: 750px){
         width: 460px;
         height: 250px; 
+        margin: 30px 0px 0px 0px !important;
+    }
+    @media screen and (max-width: 429px){
+        width: 363px;
+        height: 200px; 
         margin: 30px 0px 0px 0px !important;
     }
     margin: 20px 0px 0px 0px !important;
