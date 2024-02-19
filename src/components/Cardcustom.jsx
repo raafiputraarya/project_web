@@ -13,17 +13,15 @@ function Cardcustom(){
           <Row className='mx-auto'>
             <Col className=''>
               <Card className='card1' style={{ 
-                height: '26rem',
-                width: '19rem',
+                width: '21rem',
                 color: 'black', 
                 padding: '15px 10px 20px 10px',
-                margin: '10px 0px 45px 0px',
                 borderRadius:'20px',
                 boxShadow: '5px 5px 5px 5px #e5e5e5',
                 backgroundColor: '#FFE382',
                 border:'0',
                 margin: 'auto',
-
+                opacity: '90%',
                 }}>
               <Card.Img className='card-img1' variant="top" src="img/gelas.png" />
               <Card.Body className=''>
@@ -38,17 +36,15 @@ function Cardcustom(){
             </Col>
             <Col className=''>
               <Card className='card2' style={{
-               height: '26rem',
-               width: '19rem',
-               color: 'black', 
-               padding: '15px 10px 20px 10px',
-               margin: '10px 0px 45px 0px',
-               borderRadius:'20px',
-               boxShadow: '5px 5px 5px 5px #e5e5e5',
-               backgroundColor: 'white',
-               border:'0',
-               margin: 'auto',
-
+                 width: '21rem',
+                 color: 'black', 
+                 padding: '15px 10px 15px 10px',
+                 borderRadius:'20px',
+                 boxShadow: '5px 5px 5px 5px #e5e5e5',
+                 backgroundColor: 'transparent',
+                 border:'0',
+                 margin: 'auto',
+                 opacity: '90%',
                 }}>
               <Card.Img className='card-img2' variant="top" src="img/gelas.png" />
               <Card.Body>
@@ -64,16 +60,15 @@ function Cardcustom(){
 
             <Col className='card3'>
               <Card className='card' style={{
-              height: '26rem',
-              width: '19rem',
-              color: 'black', 
-              padding: '15px 10px 20px 10px',
-              margin: '10px 0px 45px 0px',
-              borderRadius:'20px',
-              boxShadow: '5px 5px 5px 5px #e5e5e5',
-              backgroundColor: '#FFE382',
-              border:'0',
-              margin: 'auto',
+                   width: '21rem',
+                   color: 'black', 
+                   padding: '15px 10px 15px 10px',
+                   borderRadius:'20px',
+                   boxShadow: '5px 5px 5px 5px #e5e5e5',
+                   backgroundColor: '#FFE382',
+                   border:'0',
+                   margin: 'auto',
+                   opacity: '90%',
               }}>
               <Card.Img className='card-img3' variant="top" src="img/gelas.png" />
               <Card.Body>
