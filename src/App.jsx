@@ -9,6 +9,8 @@ import Headerfile  from './components/Headerfile'
 import NavbarKeren from './components/NavbarKeren'
 import Service from './components/Service'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import AOS from 'aos';
+AOS.init();
 
 function App() {  
   const [count, setCount] = useState(0)
