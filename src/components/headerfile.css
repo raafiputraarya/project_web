@@ -1,5 +1,6 @@
 .header{
     background-color: #FFE382;
+    width: 100%;
 }
 
 .home{
@@ -10,7 +11,6 @@
     @media screen and (max-width: 949px){
         height: 630px;
     }
-
 }
 
 .sectionleft{
@@ -55,7 +55,7 @@
         height: 300px;  
     }
     @media screen and (max-width: 750px){
-        width: 460px;
+        width: 500px;
         height: 250px; 
         margin: 30px 0px 0px 0px !important;
     }

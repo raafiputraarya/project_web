@@ -12,7 +12,7 @@ function Cardcustom(){
       <Stack direction="horizontal" gap={5} className="mx-auto">
           <Row className='mx-auto'>
             <Col className=''>
-              <Card className='card1' style={{ 
+              <Card className='card1' data-aos="fade-right" data-aos-duration="2000" style={{ 
                 width: '21rem',
                 color: 'black', 
                 padding: '15px 10px 20px 10px',
@@ -23,7 +23,7 @@ function Cardcustom(){
                 margin: 'auto',
                 opacity: '90%',
                 }}>
-              <Card.Img className='card-img1' variant="top" src="img/gelas.png" />
+              <Card.Img className='card-img1' variant="top" src="/img/gelas.png" />
               <Card.Body className=''>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
@@ -35,7 +35,7 @@ function Cardcustom(){
               </Card>
             </Col>
             <Col className=''>
-              <Card className='card2' style={{
+              <Card className='card2' data-aos="fade-up" data-aos-duration="2000" style={{
                  width: '21rem',
                  color: 'black', 
                  padding: '15px 10px 15px 10px',
@@ -46,7 +46,7 @@ function Cardcustom(){
                  margin: 'auto',
                  opacity: '90%',
                 }}>
-              <Card.Img className='card-img2' variant="top" src="img/gelas.png" />
+              <Card.Img className='card-img2' variant="top" src="/img/gelas.png" />
               <Card.Body>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
@@ -59,7 +59,7 @@ function Cardcustom(){
             </Col>
 
             <Col className='card3'>
-              <Card className='card' style={{
+              <Card className='card' data-aos="fade-left" data-aos-duration="2000" style={{
                    width: '21rem',
                    color: 'black', 
                    padding: '15px 10px 15px 10px',
@@ -70,7 +70,7 @@ function Cardcustom(){
                    margin: 'auto',
                    opacity: '90%',
               }}>
-              <Card.Img className='card-img3' variant="top" src="img/gelas.png" />
+              <Card.Img className='card-img3' variant="top" src="/img/gelas.png" />
               <Card.Body>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
