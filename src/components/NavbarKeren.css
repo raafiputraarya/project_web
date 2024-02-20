@@ -1,7 +1,12 @@
 .reallycoolnav {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif !important;
     background-color: #FFE382 !important;
 }
 .logoa{
     border-radius: 3%;
+}
+.navadd:hover{
+    background-color: #876a00;
+    transition: all 250ms linear;
+    transition-property: background-color;
 }
