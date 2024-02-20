@@ -12,9 +12,6 @@ function About (){
                 <Col lg={6} md={12} className="d-flex mb-5 mt-3">
                     <img src="/img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoAbout"/>
                 </Col>
-                <Col lg={6} md={12} className="d-flex">
-                    <img src="img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoa"/>
-                </Col>
                 <Col lg={6} md={12} className='mb-5 mt-3'>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                     sed do eiusm sed do eiusmod tempor incididunt ut labore

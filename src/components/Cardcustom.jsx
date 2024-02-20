@@ -12,7 +12,7 @@ function Cardcustom(){
       <Stack direction="horizontal" gap={5} className="mx-auto">
           <Row className='mx-auto'>
             <Col className=''>
-              <Card className='card1' style={{ 
+              <Card className='card1' data-aos="fade-right" data-aos-duration="2000" style={{ 
                 width: '21rem',
                 color: 'black', 
                 padding: '15px 10px 20px 10px',
@@ -35,7 +35,7 @@ function Cardcustom(){
               </Card>
             </Col>
             <Col className=''>
-              <Card className='card2' style={{
+              <Card className='card2' data-aos="fade-up" data-aos-duration="2000" style={{
                  width: '21rem',
                  color: 'black', 
                  padding: '15px 10px 15px 10px',
@@ -59,7 +59,7 @@ function Cardcustom(){
             </Col>
 
             <Col className='card3'>
-              <Card className='card' style={{
+              <Card className='card' data-aos="fade-left" data-aos-duration="2000" style={{
                    width: '21rem',
                    color: 'black', 
                    padding: '15px 10px 15px 10px',
