@@ -23,10 +23,10 @@ function NavbarKeren() {
           <Navbar.Toggle aria-controls="basic-navbar-nav"/>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="justify-content-end" style={{ width: "100%" }}>
-              <Nav.Link href="#Header">Header</Nav.Link>
-              <Nav.Link href="#Services">Services</Nav.Link>
-              <Nav.Link href="#About">About</Nav.Link>
-              <Nav.Link href="#Contact">Contact</Nav.Link>
+              <Nav.Link href="#Header" className="navadd" spy={true} smooth={true} duration={1000} to="headerbg" style={{ cursor: "pointer" }}>Header</Nav.Link>
+              <Nav.Link href="#Services" className="navadd" spy={true} smooth={true} duration={1000} to="headerbg" style={{ cursor: "pointer" }}>Services</Nav.Link>
+              <Nav.Link href="#About" className="navadd" spy={true} smooth={true} duration={1000} to="headerbg" style={{ cursor: "pointer" }}>About</Nav.Link>
+              <Nav.Link href="#Contact" className="navadd" spy={true} smooth={true} duration={1000} to="headerbg" style={{ cursor: "pointer" }}>Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
