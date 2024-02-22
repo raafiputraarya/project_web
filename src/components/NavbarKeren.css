@@ -5,8 +5,29 @@
 .logoa{
     border-radius: 3%;
 }
+.navadd{
+    position: relative;
+    top: 0px;
+    background-color: #FFE382;
+    transition: background-color 250ms ease-in;
+    animation-name: navaddanimrev;
+    animation-duration: 0.5s;
+    border-radius: 5px;
+    text-align: center;
+}
 .navadd:hover{
-    background-color: #876a00;
-    transition: all 250ms linear;
-    transition-property: background-color;
+    position: relative;
+    top: -5px;
+    padding-bottom: 5px;
+    background-color: white;
+    animation-name: navaddanim;
+    animation-duration: 0.5s;
+}
+@keyframes navaddanim {
+  from {top: 0px;}
+  to {top: -5px;}
+}
+@keyframes navaddanimrev {
+  from {top: -5px;}
+  to {top: 0px;}
 }
