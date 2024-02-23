@@ -17,7 +17,7 @@ function Headerfile (){
                         <Button className="Button" variant="warning" href='#Services' >Read now!</Button>
                     </div>
                     <div md={2} className="sectionright col-md-2"  data-aos="fade-left" data-aos-duration="2000">
-                        <img src='/public/img/logo.jpeg' className="imageheader"></img>
+                        <img src='img/logo.jpeg' className="imageheader"></img>
                     </div>
                 </Row>
             </Container>
