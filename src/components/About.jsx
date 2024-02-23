@@ -14,7 +14,7 @@ function About (){
                     <img src="img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoa"/>
                 </Col>
                 <Col lg={6} md={12} className=''>
-                    <Tab.Container id="left-tabs-example" defaultActiveKey="first">
+                    <Tab.Container id="left-tabs-example" defaultActiveKey="Profil">
                         <Row>
                             <Col sm={3}>
                             <Nav variant="pills" className="flex-column">
@@ -42,8 +42,9 @@ function About (){
                                 <Tab.Pane eventKey="Latar">
                                     <p>
                                     Tingginya kebutuhan masyarakat akan informasi serta pesatnya pertumbuhan tekhnologi dewasa ini, menjadi salah satu dasar bagi kami dalam wadah PT KABAR6 MULTIMEDIA dengan Akta Perubahan  22 Maret 2017 Nomer 08 dan Nomer AHU-0007182.AH.01.02.Tahun 2017 serta Surat Pengukuhan PKP:-1S30PKP/WP J.08/KP.0303/2017 hadir melalui www.kabar6.com, untuk menyajikan informasi berbasis dunia internet kehadapan masyarakat.
-                                    </p><p>
-www.kabar6.com kiranya cukup mendapat apresiasi dari masyarakat Banten, khususnya Tangerang Raya. Terbukti, kabar6 sudah berusia 14 tahun, dan  kabar6.com kini sudah memiliki kunjungan hingga rata-rata mencapai 1.500.000 clikers perhari versi google analystic. 125-250 Ribu kunjungan per hari dari data administrator web kabar6.com
+                                    </p>
+                                    <p>
+                                    www.kabar6.com kiranya cukup mendapat apresiasi dari masyarakat Banten, khususnya Tangerang Raya. Terbukti, kabar6 sudah berusia 14 tahun, dan  kabar6.com kini sudah memiliki kunjungan hingga rata-rata mencapai 1.500.000 clikers perhari versi google analystic. 125-250 Ribu kunjungan per hari dari data administrator web kabar6.com
                                     </p>
                                 </Tab.Pane>
                             </Tab.Content>
