@@ -6,7 +6,7 @@ function Service (){
     return(
      
         <Container className="text-center" id='Services'>      
-            <h2 className="heading">SERVICES</h2>
+            <h2 className="heading" data-aos="fade-up" data-aos-duration="1000">SERVICES</h2>
             <Cardcustom />
             <div class="wave"></div>
         </Container>
