@@ -70,7 +70,12 @@
 }
 
 .Button{
-    border-radius: 11% !important;
+    border-radius: 11px !important;
     width: 150px;
     height : 40px;
+}
+
+.Button:hover{
+    background-color: white !important;
+    width: 200px;
 }
