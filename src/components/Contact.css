@@ -12,3 +12,21 @@
     border-left: 1px solid black;
     border-top: 1px solid black;
 }
+a {
+    color : black !important;
+    text-decoration: none !important;
+}
+.link {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.link1 {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.alamat{
+    margin-top: 40px !important;
+}
+
