@@ -12,7 +12,7 @@ function Contact (){
         <Container className="px-5 coolcontact" id="Contact" fluid>
             <Row>
                 <Col lg={6} md={12} className="rightborder pb-4">
-                    <Form>
+                    <Form action="mailto:rezerdamsung@gmail.com">
                     <Form.Group className="mb-3" controlId="Name">
                         <Form.Label>Nama :</Form.Label>
                         <Form.Control type="text" placeholder="Masukkan Nama Anda..."/>
