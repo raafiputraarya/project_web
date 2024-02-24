@@ -14,7 +14,7 @@ function About (){
                     <img src="img/logo.jpeg" alt="" className="img-fluid mx-auto mt-1 mb-auto logoa"/>
                 </Col>
                 <Col lg={6} md={12} className=''>
-                    <Tab.Container id="left-tabs-example" defaultActiveKey="Profil">
+                    <Tab.Container id="" defaultActiveKey="Profil">
                         <Row>
                             <Col sm={3}>
                             <Nav variant="pills" className="flex-column">
@@ -24,11 +24,14 @@ function About (){
                                 <Nav.Item>
                                 <Nav.Link eventKey="Latar">Latar Belakang</Nav.Link>
                                 </Nav.Item>
+                                <Nav.Item>
+                                <Nav.Link eventKey="VisiMisi">Visi Misi</Nav.Link>
+                                </Nav.Item>
                             </Nav>
                             </Col>
                             <Col sm={9}>
                             <Tab.Content>
-                                <Tab.Pane eventKey="Profil">
+                                <Tab.Pane eventKey="Profil" >
                                     <p>
                                     Kabar6 lahir Tahun 2011 di Bawah bendera CV Karya Multi Media, kemudian berubah nama di bawah naungan CV.KABAR6 MULTI MEDIA, pada Tahun 2016 tanggal 14 April status legalitasnya menjadi PT KABAR6 MULT I MEDIA. Kemudian mengalami akta Perubahan Tanggal 22 Maret 2017 Nomer. 
                                     </p>
@@ -45,6 +48,13 @@ function About (){
                                     </p>
                                     <p>
                                     www.kabar6.com kiranya cukup mendapat apresiasi dari masyarakat Banten, khususnya Tangerang Raya. Terbukti, kabar6 sudah berusia 14 tahun, dan  kabar6.com kini sudah memiliki kunjungan hingga rata-rata mencapai 1.500.000 clikers perhari versi google analystic. 125-250 Ribu kunjungan per hari dari data administrator web kabar6.com
+                                    </p>
+                                </Tab.Pane>
+                                <Tab.Pane eventKey="VisiMisi">
+                                    <p>
+                                    Kabar6 merupakan media mainsterm yang lahir di Banten dengan motto Dari Banten untuk Indonesia. Menyajikan media nomer 1 yanng masih eksis sampai saat ini. Adapun sajian informasi yang diproduksi www.kabar6.com mulai dari berita seputar pemerintahan, politik, kriminal dan hukum. Kami juga menyajikan sejumlah kanal hiburan, bisnis, kuliner, sehat, fengshui  dan busyet dah. Kami percaya sajian informasi berbasis data dan fakta yang kami suguhkan bisa menjadi salah satu referensi, umumnya bagi warga Banten, dan khusunya bagi warga Tangerang Raya. 
+                                    </p><p>
+                                    Media ini juga berfungsi sebagai kontrol sosial, dalam menyoroti kebijakan Pemerintah Daerah, dan juga mengutamakan kepentingan rakyat. Idialisme sebagai media yang independen tanpa keberpihakan pada politik, pemerintah, maupun kelompok-kelompok tertentu.  Dalam menyajikan informasih kabar6 memakai pedoman dan kode etik jurnalistik dan UU Pers. Media ini juga sudah terverifikasi faktual DEWAN PERS.  
                                     </p>
                                 </Tab.Pane>
                             </Tab.Content>
