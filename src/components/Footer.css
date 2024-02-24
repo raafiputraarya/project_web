@@ -9,3 +9,7 @@
 .logoa{
     border-radius: 3%;
 }
+
+li , p{
+    font-size: 15px;
+}
